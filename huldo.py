@@ -4,7 +4,7 @@ from argparse import ArgumentParser
 from pathlib import Path
 from random import shuffle
 
-DIR = Path(__file__).resolve().parent
+DIR = Path(__file__).resolve().parent / 'dict'
 
 
 def deobfuscate(d, text):
