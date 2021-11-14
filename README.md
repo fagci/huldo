@@ -2,6 +2,8 @@
 
 Human language deobfuscator/obfuscator
 
+Tags: 1337, leet speak, русский 1337
+
 ```sh
 ./huldo.py '4n0nym0u5'
 anonymous
