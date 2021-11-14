@@ -26,6 +26,11 @@ W/|a СAw@ пo wocc3
 Шла Саша по шоссе
 ```
 
+```sh
+./huldo.awk dict/en.txt <(echo '1337')
+leet
+```
+
 ## Usage
 
 ```
