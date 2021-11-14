@@ -6,6 +6,8 @@ Tags: 1337, leet speak, русский 1337
 
 ## Examples
 
+### Python
+
 ```sh
 ./huldo.py '4n0nym0u5'
 anonymous
@@ -25,6 +27,8 @@ W/|a СAw@ пo wocc3
 ./huldo.py -d ru 'W/|a СAw@ пo wocc3'
 Шла Саша по шоссе
 ```
+
+### AWK
 
 ```sh
 ./huldo.awk dict/en.txt <(echo '1337')
