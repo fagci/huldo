@@ -1,5 +1,7 @@
 # huldo
 
+Human language deobfuscator/obfuscator
+
 ```sh
 ./huldo.py '4n0nym0u5'
 anonymous
